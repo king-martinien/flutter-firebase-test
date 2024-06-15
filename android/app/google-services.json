@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804678267658",
+    "project_id": "test-firebase-d22cd",
+    "storage_bucket": "test-firebase-d22cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804678267658:android:725823c8fb0e92367580f3",
+        "android_client_info": {
+          "package_name": "com.kingmartinien.flutter_firebase_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCymyfNf8Ms2LWtKJBHS6U-UM6hg4xUvz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
